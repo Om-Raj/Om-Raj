@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Om-Raj
-- 👀 I’m interested in pretty much everything
+- 👀 I’m interested in...pretty much everything
 - 🌱 I’m currently learning Python, React, Pentesting, etc. (anything random which facinates me...)
 <!---
 - 💞️ I’m looking to collaborate on 
