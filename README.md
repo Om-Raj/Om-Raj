@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Om-Raj
 - 👀 I’m interested in...pretty much everything
-- 🌱 I’m currently learning Python, Networking, Pentesting, etc. (anything random which facinates me...)
+- 🌱 I’m currently learning Rust, Networking, Pentesting... (anything random which facinates me...)
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
